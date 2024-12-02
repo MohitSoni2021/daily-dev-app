@@ -1,0 +1,32 @@
+.background-login {
+    height: 100vh;
+    overflow-y: scroll;
+    position: relative;
+
+}
+
+.background-login > img{
+    width: 100vw;
+    position: absolute;
+    bottom: 0%;
+    opacity: 60%;
+    z-index: -1;
+}
+
+.content-container{
+    /* background-color: orange; */
+}
+
+.logo-container > img{
+    opacity: 100%;
+    width: 100px;
+}
+
+.form-email-input-field > label{
+    /* display: none; */
+}
+
+.form-email-input-field > input:focus .form-email-input-field>label{
+    
+    background-color: blue;
+}
