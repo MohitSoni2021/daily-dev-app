@@ -5,7 +5,7 @@ import { FaLink } from 'react-icons/fa6'
 
 const MainComponentCards = () => {
   return (
-    <div className="card-container-dev text-white bg-[#1C1F26] w-[318px] px-4 py-2 rounded-lg flex flex-col gap-2 pt-4 border-[1px] border-gray-700 hover:border-[#7147ED] transition-all duration-200 max-md:w-full ">
+    <div className="card-container-dev text-white bg-[#1C1F26] w-[318px] px-4 py-2 rounded-lg flex flex-col gap-2 pt-4 border-[1px] border-gray-700 hover:border-[#7147ED] transition-all duration-200 max-md:w-full hover:cursor-pointer hover:scale-105">
                     <div className="logo-container">
                         <img src="https://res.cloudinary.com/daily-now/image/upload/t_logo,f_auto/v1/logos/medium" className='w-[36px] h-[36px]' alt="" />
                     </div>
