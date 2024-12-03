@@ -1,12 +1,8 @@
 import React from 'react'
-import { CiBellOn } from "react-icons/ci";
-import { ImSearch } from "react-icons/im";
-import { AiFillThunderbolt } from "react-icons/ai";
 import SideBarHomePage from './SideBarHomePage';
 import MainContentComponent from './MainContentComponent';
 import NavbarHomePage from './NavbarHomePage';
 import OptionListMidDevice from './OptionListMidDevice';
-import { ProfileCardHome } from './mini-components';
 
 
 

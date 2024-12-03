@@ -1,7 +1,4 @@
 import React from 'react'
-import { BiSolidComment, BiSolidDownvote, BiSolidUpvote } from 'react-icons/bi';
-import { CiBookmark } from 'react-icons/ci';
-import { FaLink } from 'react-icons/fa6';
 import { LuSettings2 } from "react-icons/lu";
 import MainComponentCards from '../MainComponentCards';
 
