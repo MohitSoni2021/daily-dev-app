@@ -1,4 +1,4 @@
-import { NextRequest, NextResponse } from 'next/server'
+import { NextResponse } from 'next/server'
 import { home_card_data } from '../../../sample-database/feed-data'
 
 export async function GET() {
